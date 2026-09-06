@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jimmyzars.github.io/build/static/css/main.f855e6bc.css",
+    "main.js": "/jimmyzars.github.io/build/static/js/main.b06dfdb1.js",
+    "static/js/453.75aa602a.chunk.js": "/jimmyzars.github.io/build/static/js/453.75aa602a.chunk.js",
+    "static/media/jb_logo.png": "/jimmyzars.github.io/build/static/media/jb_logo.7946abf0e4e0686472a9.png",
+    "index.html": "/jimmyzars.github.io/build/index.html",
+    "main.f855e6bc.css.map": "/jimmyzars.github.io/build/static/css/main.f855e6bc.css.map",
+    "main.b06dfdb1.js.map": "/jimmyzars.github.io/build/static/js/main.b06dfdb1.js.map",
+    "453.75aa602a.chunk.js.map": "/jimmyzars.github.io/build/static/js/453.75aa602a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b06dfdb1.js"
+  ]
+}
